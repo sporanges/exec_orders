@@ -1,16 +1,16 @@
-name,inaug_date
-Franklin D Roosevelt,1933/03/04
-Harry S Truman,1945/04/12
-Dwight D Eisenhower,1953/01/20
-John F Kennedy,1961/01/20
-Lyndon B Johnson,1963/11/22
-Richard Nixon,1969/01/20
-Gerald Ford,1974/04/09
-Jimmy Carter,1977/01/20
-Ronald Reagan,1981/01/20
-George H W Bush,1989/01/20
-William J Clinton,1993/01/20
-George W Bush,2001/01/20
-Barack Obama,2009/01/20
-Donald Trump,2017/01/20
-Joseph R Biden,2021/01/20
+name,inaug_date,party
+Franklin D Roosevelt,1933/03/04,Democratic
+Harry S Truman,1945/04/12,Democratic
+Dwight D Eisenhower,1953/01/20,Republican
+John F Kennedy,1961/01/20,Democratic
+Lyndon B Johnson,1963/11/22,Democratic
+Richard Nixon,1969/01/20,Republican
+Gerald Ford,1974/04/09,Republican
+Jimmy Carter,1977/01/20,Democratic
+Ronald Reagan,1981/01/20,Republican
+George H W Bush,1989/01/20,Republican
+William J Clinton,1993/01/20,Democratic
+George W Bush,2001/01/20,Republican
+Barack Obama,2009/01/20,Democratic
+Donald Trump,2017/01/20,Republican
+Joseph R Biden,2021/01/20,Democratic
